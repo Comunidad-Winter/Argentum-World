@@ -1,0 +1,5 @@
+Línea 21: la clase ComctlLib.ProgressBar del control cargar no era una clase de control cargada.
+Línea 27: el nombre de la propiedad _ExtentX de cargar no es válido.
+Línea 28: el nombre de la propiedad _ExtentY de cargar no es válido.
+Línea 29: el nombre de la propiedad _Version de cargar no es válido.
+Línea 31: el nombre de la propiedad Min de cargar no es válido.

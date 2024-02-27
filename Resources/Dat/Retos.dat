@@ -1,0 +1,92 @@
+[Retos]
+MaximoEquipo=5		# N vs N
+ApuestaMinima=20000	# Monedas de oro
+ImpuestoApuesta=0.1	# Parte que nos quedamos de la apuesta
+DuracionMaxima=900	# En segundos
+TiempoGuardarItems=60	# En segundos
+TiempoConteo=15		# En segundos
+
+[Salas]
+Cantidad=16
+Ancho=23   # No tocar
+Alto=19	   # No tocar
+
+[Sala1]
+Mapa=36
+X=13	# Esquina superior izquierda
+Y=13	# del interior del ring
+
+[Sala2]
+Mapa=37
+X=13
+Y=12
+
+[Sala3]
+Mapa=38
+X=2
+Y=4
+
+[Sala4]
+Mapa=39
+X=3
+Y=5
+
+[Sala5]
+Mapa=40
+X=13	# Esquina superior izquierda
+Y=13	# del interior del ring
+
+[Sala6]
+Mapa=41
+X=13
+Y=12
+
+[Sala7]
+Mapa=42
+X=2
+Y=4
+
+[Sala8]
+Mapa=43
+X=3
+Y=5
+
+[Sala9]
+Mapa=44
+X=13	# Esquina superior izquierda
+Y=13	# del interior del ring
+
+[Sala10]
+Mapa=45
+X=13
+Y=12
+
+[Sala11]
+Mapa=46
+X=2
+Y=4
+
+[Sala12]
+Mapa=47
+X=3
+Y=5
+
+[Sala13]
+Mapa=48
+X=13	# Esquina superior izquierda
+Y=13	# del interior del ring
+
+[Sala14]
+Mapa=49
+X=13
+Y=12
+
+[Sala15]
+Mapa=50
+X=2
+Y=4
+
+[Sala16]
+Mapa=51
+X=3
+Y=5

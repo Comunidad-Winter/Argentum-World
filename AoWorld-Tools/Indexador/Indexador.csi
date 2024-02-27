@@ -1,0 +1,19 @@
+[History]
+1=#P0#=mb	#P1#=CaGraficos	#P2#=IndexadorHiPrO/GrhLoad/CaGraficos	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210516090338	#P7#=0	#P8#=25	.
+2=#P0#=mb	#P1#=mnuIrABMP_Click	#P2#=IndexadorHiPrO/Form1/mnuIrABMP_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210515194337	#P7#=0	#P8#=12	.
+3=#P0#=mb	#P1#=mnuBMPinutiles_Click	#P2#=IndexadorHiPrO/Form1/mnuBMPinutiles_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210515194130	#P7#=0	#P8#=18	.
+4=#P0#=mb	#P1#=ExportarDAT	#P2#=IndexadorHiPrO/eXpessial/ExportarDAT	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20210515100236	#P7#=0	#P8#=4	.
+5=#P0#=mb	#P1#=LeerOpciones	#P2#=IndexadorHiPrO/eXpessial/LeerOpciones	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20210515100220	#P7#=0	#P8#=2	.
+6=#P0#=mb	#P1#=HacerIndex	#P2#=IndexadorHiPrO/Diseño/HacerIndex	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20210515100154	#P7#=0	#P8#=34	.
+7=#P0#=mb	#P1#=Listado_Click	#P2#=IndexadorHiPrO/CabezaM/Listado_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210515100133	#P7#=0	#P8#=3	.
+8=#P0#=mb	#P1#=CargarImagen	#P2#=IndexadorHiPrO/Arma/CargarImagen	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20210515100121	#P7#=0	#P8#=15	.
+9=#P0#=mb	#P1#=Listado_Click	#P2#=IndexadorHiPrO/Arma/Listado_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210515100114	#P7#=0	#P8#=10	.
+10=#P0#=mb	#P1#=mnuIndexCascos_Click	#P2#=IndexadorHiPrO/Form1/mnuIndexCascos_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210515095717	#P7#=0	#P8#=49	.
+11=#P0#=mb	#P1#=ConvertFileImage	#P2#=IndexadorHiPrO/Module1/ConvertFileImage	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210514174803	#P7#=0	#P8#=6	.
+12=#P0#=mb	#P1#=CargarImagen	#P2#=IndexadorHiPrO/NewAmb/CargarImagen	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210514170819	#P7#=0	#P8#=11	.
+13=#P0#=mb	#P1#=mnuBuscarGrhLibresConsecutivos_Click	#P2#=IndexadorHiPrO/Form1/mnuBuscarGrhLibresConsecutivos_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210516090144	#P7#=0	#P8#=7	.
+14=#P0#=mb	#P1#=mnuBuscarErrDim_Click	#P2#=IndexadorHiPrO/Form1/mnuBuscarErrDim_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210423182615	#P7#=0	#P8#=8	.
+15=#P0#=mb	#P1#=CargarImagen	#P2#=IndexadorHiPrO/frmAmbientaciones/CargarImagen	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210423174500	#P7#=0	#P8#=8	.
+16=#P0#=mb	#P1#=List1_Click	#P2#=IndexadorHiPrO/frmAmbientaciones/List1_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210423172810	#P7#=0	#P8#=2	.
+17=#P0#=mb	#P1#=HacerIndexacion	#P2#=IndexadorHiPrO/Indexar/HacerIndexacion	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210310162848	#P7#=0	#P8#=25	.
+18=#P0#=mb	#P1#=mnuExportGrh_Click	#P2#=IndexadorHiPrO/Form1/mnuExportGrh_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210310162507	#P7#=0	#P8#=19	.

@@ -1,0 +1,35 @@
+Mapa1 - Mundo
+Mapa2 - D Newbie
+Mapa3 - Catas 1
+Mapa4 - Catas 2
+Mapa5 - Minas hierro
+Mapa6 - Minas plata
+Mapa7 - Penthar
+Mapa8 - Piramide
+Mapa9 - Montaña enana
+Mapa10 - Marabel
+Mapa11 - Veriil
+Mapa12 - Deadly room
+Mapa13 - Dungeon Dragon
+Mapa14 - Magma
+Mapa15 - Polo
+Mapa16 - Nagas
+Mapa17 - Drenaje
+Mapa18 - Ducto escape
+Mapa19 - Mausoleo
+Mapa20 - Pantano
+Mapa21 - Espera captura bandera
+Mapa22 - Captura bandera
+Mapa23 - Palacio Arkhein
+Mapa24 - Templo Arkhein
+Mapa25 - Palacio Bander
+Mapa26 - Templo Bander
+Mapa27 - Segundo piso arghal
+Mapa28 - Sotano nix
+Mapa29 - Isla quest newbie
+Mapa30 - Meson hostigado
+Mapa31 - Meson hostigado planta 2
+Mapa32 - Mapa gm
+Mapa33 - Mapa torneos
+Mapa34 - Camara anubis
+Mapa35 - Minas de oro

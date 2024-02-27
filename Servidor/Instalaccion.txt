@@ -1,0 +1,15 @@
+mysql 8.0.31, instalador offline winx64 (222mb), installer 1.6
+- server only
+(next, next, next)
+todo next, default
+MySQL Root: asd123
+(todo next)
+
+mysql workbench 8.0.32, msi installer (44.6MB)
+next, complete, next
+abrir->conectar->Open SQL (BaseDeDatosBuena.sql), al rayito para ejecutar
+
+abrir el nodejs, puerto 1234
+
+ejecutar servidor.
+Si se queda tildado en Quest; cerrar e instalar dll Aurora.

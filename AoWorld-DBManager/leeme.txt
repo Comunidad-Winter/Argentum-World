@@ -1,0 +1,5 @@
+Instalar NodeJS
+Ejecutar 'npm install' (para descargar los node_modules)
+Ejecutar 'npm install mysql2 --save"
+
+Ejecutar 'node index.js" para iniciar.

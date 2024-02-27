@@ -1,0 +1,13 @@
+[History]
+1=#P0#=mb	#P1#=FindKey	#P2#=ClientArgentumU/clsIniManager/FindKey	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230109203632	#P7#=0	#P8#=22	.
+2=#P0#=mb	#P1#=LoadZonas	#P2#=ClientArgentumU/modZonas/LoadZonas	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105010721	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=RegistrarError	#P2#=ClientArgentumU/Application/RegistrarError	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105010315	#P7#=0	#P8#=34	.
+4=#P0#=mb	#P1#=LoadResources	#P2#=ClientArgentumU/Recursos/LoadResources	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105010038	#P7#=0	#P8#=13	.
+5=#P0#=mb	#P1#=Main	#P2#=ClientArgentumU/Mod_General/Main	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105005810	#P7#=0	#P8#=51	.
+6=#P0#=mb	#P1#=SetEvent	#P2#=ClientArgentumU/Application/SetEvent	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105005337	#P7#=0	#P8#=0	.
+7=#P0#=mb	#P1#=IsAppActive	#P2#=ClientArgentumU/Application/IsAppActive	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105005122	#P7#=0	#P8#=-7	.
+8=#P0#=mb	#P1#=CargarIndicesOBJ	#P2#=ClientArgentumU/Recursos/CargarIndicesOBJ	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105004346	#P7#=0	#P8#=33	.
+9=#P0#=mb	#P1#=InitClient	#P2#=ClientArgentumU/GameIni/InitClient	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105004231	#P7#=0	#P8#=2	.
+10=#P0#=mb	#P1#=SetLanguageApplication	#P2#=ClientArgentumU/ModLenguaje/SetLanguageApplication	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20230105003735	#P7#=0	#P8#=0	.
+11=#P0#=mb	#P1#=renderer_MouseDown	#P2#=ClientArgentumU/frmMain/renderer_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230105002953	#P7#=0	#P8#=23	.
+12=#P0#=mb	#P1#=renderer_MouseUp	#P2#=ClientArgentumU/frmMain/renderer_MouseUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20230105002934	#P7#=0	#P8#=103	.
